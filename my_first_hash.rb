@@ -1,6 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-  {"artists" => "Shakira", "Bomba Stereo"
+  {"artists" => "Shakira", "Bomba Stereo",
   "songs" => "Antologia", "Soy yo" }
 
 end
